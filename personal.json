@@ -1,153 +1,143 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-10-03",
   "sections": [
     {
-      "id": "errors",
-      "title": "Mes erreurs",
-      "subtitle": "Lỗi ngữ pháp & phát âm cần tránh",
+      "id": "irregular_verbs_passe_compose",
+      "title": "Les verbes irréguliers au passé composé",
+      "subtitle": "Bảng động từ bất quy tắc thường gặp ở Passé Composé",
       "items": [
         {
-          "title": "Je suis bien ❌ → Je vais bien ✅",
-          "content": "Hỏi thăm sức khỏe dùng động từ ALLER, không dùng ÊTRE.",
-          "example": "Comment ça va ? — Je vais bien, merci !",
-          "note": "Rất phổ biến khi dịch từ tiếng Anh 'I am fine'"
+          "title": "avoir → eu",
+          "content": "Động từ avoir có participe passé bất quy tắc: eu.",
+          "example": "J'ai eu un problème hier.",
+          "note": "AVOIR + eu"
         },
         {
-          "title": "Visiter qn ❌ → Rendre visite à qn ✅",
-          "content": "Visiter chỉ dùng cho địa điểm, thành phố. Thăm người dùng rendre visite à.",
-          "example": "Je rends visite à mes grands-parents ce week-end.",
-          "note": "Visiter Paris (đúng) / Visiter mon ami (sai)"
+          "title": "être → été",
+          "content": "Động từ être có participe passé: été.",
+          "example": "J'ai été très content.",
+          "note": "Luôn dùng avoir làm trợ động từ"
         },
         {
-          "title": "J'ai 20 ans ✅ (không dùng Je suis 20 ans)",
-          "content": "Tuổi tác trong tiếng Pháp luôn chia với trợ động từ AVOIR.",
-          "example": "Quel âge as-tu ? — J'ai 22 ans.",
-          "note": "AVOIR + số tuổi + ans"
+          "title": "faire → fait",
+          "content": "Faire trở thành fait ở participe passé.",
+          "example": "J'ai fait mes devoirs.",
+          "note": "Không viết fais"
         },
         {
-          "title": "Beaucoup des amis ❌ → Beaucoup d'amis ✅",
-          "content": "Sau phó từ chỉ số lượng luôn dùng DE / D' (không dùng des).",
-          "example": "J'ai beaucoup d'amis à Paris.",
-          "note": "beaucoup de, trop de, peu de, assez de..."
+          "title": "prendre → pris",
+          "content": "Các động từ nhóm prendre đổi -endre thành -is.",
+          "example": "J'ai pris le métro.",
+          "note": "prendre, apprendre, comprendre → pris"
         },
         {
-          "title": "Je suis aller ❌ → Je suis allé(e) ✅",
-          "content": "Sau trợ từ être ở Passé Composé phải chia Participe Passé và hợp giống/số.",
-          "example": "Elle est allée au cinéma hier soir.",
-          "note": "Giống cái thêm -e, số nhiều thêm -s"
-        }
-      ]
-    },
-    {
-      "id": "words",
-      "title": "Mes mots",
-      "subtitle": "Từ vựng cá nhân, thầy cô & hội thảo",
-      "items": [
-        {
-          "title": "la démarche (n.f.)",
-          "content": "Thủ tục, các bước tiến hành hành chính hoặc phương pháp luận.",
-          "example": "Faire des démarches administratives pour le titre de séjour.",
-          "note": "Từ rất hay gặp trong đời sống tại Pháp"
+          "title": "mettre → mis",
+          "content": "Mettre có participe passé là mis.",
+          "example": "J'ai mis mon téléphone sur la table.",
+          "note": "mettre → mis"
         },
         {
-          "title": "incontournable (adj.)",
-          "content": "Không thể bỏ qua, cực kỳ cần thiết, điểm nhấn quan trọng.",
-          "example": "Le musée du Louvre est un lieu incontournable à Paris.",
-          "note": "Thầy cô và các bài thuyết trình rất chuộng từ này"
+          "title": "voir → vu",
+          "content": "Voir đổi thành vu.",
+          "example": "J'ai vu un film hier soir.",
+          "note": "voir → vu"
         },
         {
-          "title": "avoir hâte de + inf",
-          "content": "Rất háo hức, nôn nóng muốn làm điều gì đó.",
-          "example": "J'ai hâte de commencer mon nouveau semestre à l'université.",
-          "note": "= être très impatient de"
+          "title": "venir → venu",
+          "content": "Venir dùng être làm trợ động từ.",
+          "example": "Je suis venu à Paris.",
+          "note": "Phải chia giống số: venue, venus, venues"
         },
         {
-          "title": "aboutir à (v.)",
-          "content": "Dẫn đến kết quả, mang lại thành quả cụ thể.",
-          "example": "Le projet a abouti à un grand succès.",
-          "note": "Dùng nhiều trong báo cáo khoa học & tranh luận"
-        }
-      ]
-    },
-    {
-      "id": "courses",
-      "title": "Mes cours",
-      "subtitle": "Ghi chú bài học CCFS & giảng đường",
-      "items": [
-        {
-          "title": "Subjonctif: Il faut que + S + V(subj)",
-          "content": "Biểu thị sự bắt buộc hoặc cần thiết khách quan.",
-          "example": "Il faut que tu fasses attention aux devoirs.",
-          "note": "faire → que tu fasses (bất quy tắc)"
+          "title": "venir → venu",
+          "content": "Các động từ giống venir cũng theo mẫu này.",
+          "example": "Elle est devenue médecin.",
+          "note": "devenir → devenu"
         },
         {
-          "title": "Gérondif: En + Participe présent (-ant)",
-          "content": "Diễn tả sự đồng thời, nguyên nhân hoặc phương thức thực hiện.",
-          "example": "Il écoute la leçon en prenant des notes.",
-          "note": "Hai hành động bắt buộc phải cùng một chủ ngữ"
+          "title": "lire → lu",
+          "content": "Lire có participe passé là lu.",
+          "example": "J'ai lu un livre.",
+          "note": "lire → lu"
         },
         {
-          "title": "Hypothèse avec SI: Si + Imparfait → Conditionnel",
-          "content": "Diễn tả giả định không có thật ở hiện tại hoặc khó xảy ra.",
-          "example": "Si j'avais du temps libre, je voyagerais en France.",
-          "note": "Không dùng Futur hoặc Conditionnel ngay sau SI"
-        }
-      ]
-    },
-    {
-      "id": "phrases",
-      "title": "Mes phrases",
-      "subtitle": "Mẫu câu khẩu ngữ muốn ghi nhớ",
-      "items": [
-        {
-          "title": "Ça te dit de + infinitif ?",
-          "content": "Bạn có hứng thú / có muốn cùng làm điều này không?",
-          "example": "Ça te dit de prendre un café après les cours ?",
-          "note": "Cách rủ rê thân mật tự nhiên nhất trong giao tiếp"
+          "title": "dire → dit",
+          "content": "Dire đổi thành dit.",
+          "example": "Il m'a dit la vérité.",
+          "note": "dire → dit"
         },
         {
-          "title": "T'en fais pas !",
-          "content": "Đừng lo lắng, yên tâm đi, không sao đâu!",
-          "example": "T'en fais pas, tout va bien se passer.",
-          "note": "= Ne t'en fais pas (thường bỏ ne trong văn nói)"
+          "title": "écrire → écrit",
+          "content": "Écrire đổi thành écrit.",
+          "example": "J'ai écrit une lettre.",
+          "note": "écrire → écrit"
         },
         {
-          "title": "C'est pas grave.",
-          "content": "Không có gì nghiêm trọng, không hề sao cả.",
-          "example": "Tu as oublié ton stylo ? C'est pas grave !",
-          "note": "Dùng để an ủi người khác hoặc đáp lại lời xin lỗi"
+          "title": "boire → bu",
+          "content": "Boire có participe passé là bu.",
+          "example": "J'ai bu un café.",
+          "note": "boire → bu"
         },
         {
-          "title": "Je te tiens au courant.",
-          "content": "Mình sẽ cập nhật tin tức / báo cho bạn biết sau nhé.",
-          "example": "Dès que j'ai la réponse, je te tiens au courant.",
-          "note": "Cực kỳ thông dụng cuối các cuộc hội thoại"
-        }
-      ]
-    },
-    {
-      "id": "notes",
-      "title": "Mes notes",
-      "subtitle": "Ghi chú tự do, thi DELF & đời sống",
-      "items": [
-        {
-          "title": "Thi DELF B2: Phần Production Orale",
-          "content": "Bố cục bài nói 3 phần: Giới thiệu chủ đề → Luận điểm 2 chiều → Kết luận cá nhân.",
-          "example": "D'une part... d'autre part... En somme...",
-          "note": "Bắt buộc dùng từ nối đa dạng (connecteurs logiques)"
+          "title": "devoir → dû",
+          "content": "Devoir đổi thành dû.",
+          "example": "J'ai dû partir tôt.",
+          "note": "Có dấu mũ: dû"
         },
         {
-          "title": "Giấy tờ CAF & Trợ cấp nhà ở",
-          "content": "Nộp hồ sơ trước ngày 15 hàng tháng để tính trợ cấp sớm nhất.",
-          "example": "Attestation de loyer + Titre de séjour + RIB.",
-          "note": "Kiểm tra hòm thư thông báo trên app CAF hàng tuần"
+          "title": "pouvoir → pu",
+          "content": "Pouvoir đổi thành pu.",
+          "example": "J'ai pu finir le travail.",
+          "note": "pouvoir → pu"
         },
         {
-          "title": "Số điện thoại khẩn cấp tại Pháp",
-          "content": "15 (SAMU - Cấp cứu y tế), 17 (Cảnh sát), 18 (Cứu hỏa), 112 (Khẩn cấp châu Âu).",
-          "example": "En cas d'urgence médicale grave, appelez le 15.",
-          "note": "Gọi miễn phí từ mọi điện thoại di động"
+          "title": "vouloir → voulu",
+          "content": "Vouloir đổi thành voulu.",
+          "example": "J'ai voulu apprendre le français.",
+          "note": "vouloir → voulu"
+        },
+        {
+          "title": "savoir → su",
+          "content": "Savoir đổi thành su.",
+          "example": "J'ai su la réponse.",
+          "note": "savoir → su"
+        },
+        {
+          "title": "naître → né",
+          "content": "Naître dùng être và participe passé né.",
+          "example": "Il est né en France.",
+          "note": "Chú ý chia giống: née, nés, nées"
+        },
+        {
+          "title": "mourir → mort",
+          "content": "Mourir dùng être và participe passé mort.",
+          "example": "Il est mort en 1990.",
+          "note": "mourir → mort"
+        },
+        {
+          "title": "ouvrir → ouvert",
+          "content": "Mặc dù nhóm -ir nhưng giống động từ bất quy tắc.",
+          "example": "J'ai ouvert la porte.",
+          "note": "ouvrir → ouvert"
+        },
+        {
+          "title": "offrir → offert",
+          "content": "Offrir có participe passé offert.",
+          "example": "J'ai offert un cadeau.",
+          "note": "offrir → offert"
+        },
+        {
+          "title": "courir → couru",
+          "content": "Courir đổi thành couru.",
+          "example": "Il a couru très vite.",
+          "note": "courir → couru"
+        },
+        {
+          "title": "tenir → tenu",
+          "content": "Tenir có participe passé tenu.",
+          "example": "J'ai tenu ma promesse.",
+          "note": "tenir → tenu"
         }
       ]
     }
